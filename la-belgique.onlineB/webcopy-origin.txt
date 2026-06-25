@@ -1,0 +1,120 @@
+Uri: https://la-belgique.online/albe.mp3
+File Name: C:\Downloaded Web Sites\la-belgique.online\albe.mp3
+Content Type: audio/mpeg
+
+Uri: https://la-belgique.online/Alerte virus.mp3
+File Name: C:\Downloaded Web Sites\la-belgique.online\Alerte virus.mp3
+Content Type: audio/mpeg
+
+Uri: https://la-belgique.online/before.js
+File Name: C:\Downloaded Web Sites\la-belgique.online\before.js
+Content Type: text/javascript
+
+Uri: https://la-belgique.online/bg1.jpg
+File Name: C:\Downloaded Web Sites\la-belgique.online\bg1.jpg
+Content Type: image/jpeg
+
+Uri: https://la-belgique.online/bienvenue5.html
+File Name: C:\Downloaded Web Sites\la-belgique.online\bienvenue5.html
+Content Type: text/html
+
+Uri: https://la-belgique.online/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\la-belgique.online\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://la-belgique.online/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\la-belgique.online\bootstrap.min.js
+Content Type: text/javascript
+
+Uri: https://la-belgique.online/cross-bl - Copie.png
+File Name: C:\Downloaded Web Sites\la-belgique.online\cross-bl - Copie.png
+Content Type: image/png
+
+Uri: https://la-belgique.online/cs.png
+File Name: C:\Downloaded Web Sites\la-belgique.online\cs.png
+Content Type: image/png
+
+Uri: https://la-belgique.online/dm.png
+File Name: C:\Downloaded Web Sites\la-belgique.online\dm.png
+Content Type: image/png
+
+Uri: https://la-belgique.online/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\la-belgique.online\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://la-belgique.online/fullscreen.js
+File Name: C:\Downloaded Web Sites\la-belgique.online\fullscreen.js
+Content Type: text/javascript
+
+Uri: https://la-belgique.online/garde.png
+File Name: C:\Downloaded Web Sites\la-belgique.online\garde.png
+Content Type: image/png
+
+Uri: https://la-belgique.online/image.jpg
+File Name: C:\Downloaded Web Sites\la-belgique.online\image.jpg
+Content Type: image/jpeg
+
+Uri: https://la-belgique.online/index.min(1).js
+File Name: C:\Downloaded Web Sites\la-belgique.online\index.min(1).js
+Content Type: text/javascript
+
+Uri: https://la-belgique.online/index.min.js
+File Name: C:\Downloaded Web Sites\la-belgique.online\index.min.js
+Content Type: text/javascript
+
+Uri: https://la-belgique.online/jquery.min.js
+File Name: C:\Downloaded Web Sites\la-belgique.online\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://la-belgique.online/logo2.png
+File Name: C:\Downloaded Web Sites\la-belgique.online\logo2.png
+Content Type: image/png
+
+Uri: https://la-belgique.online/main.js
+File Name: C:\Downloaded Web Sites\la-belgique.online\main.js
+Content Type: text/javascript
+
+Uri: https://la-belgique.online/msmm.png
+File Name: C:\Downloaded Web Sites\la-belgique.online\msmm.png
+Content Type: image/png
+
+Uri: https://la-belgique.online/replay-script.js
+File Name: C:\Downloaded Web Sites\la-belgique.online\replay-script.js
+Content Type: text/javascript
+
+Uri: https://la-belgique.online/style12.css
+File Name: C:\Downloaded Web Sites\la-belgique.online\style12.css
+Content Type: text/css
+
+Uri: https://la-belgique.online/télécharger.gif
+File Name: C:\Downloaded Web Sites\la-belgique.online\télécharger.gif
+Content Type: image/gif
+
+Uri: https://la-belgique.online/tapa.css
+File Name: C:\Downloaded Web Sites\la-belgique.online\tapa.css
+Content Type: text/css
+
+Uri: https://la-belgique.online/vid.mp4
+File Name: C:\Downloaded Web Sites\la-belgique.online\vid.mp4
+Content Type: video/mp4
+
+Uri: https://la-belgique.online/w3.html
+File Name: C:\Downloaded Web Sites\la-belgique.online\w3.html
+Content Type: text/html
+
+Uri: https://la-belgique.online/winlo.png
+File Name: C:\Downloaded Web Sites\la-belgique.online\winlo.png
+Content Type: image/png
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015
+File Name: C:\Downloaded Web Sites\la-belgique.online\beacon.min.js\vcd15cbe7772f49c399c6a5babf22c1241717689176015
+Content Type: text/javascript
+
+Uri: https://www.cloudflare.com/favicon.ico
+File Name: C:\Downloaded Web Sites\la-belgique.online\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-R5GZ2SCB0L
+File Name: C:\Downloaded Web Sites\la-belgique.online\gtag\js
+Content Type: application/javascript
+
